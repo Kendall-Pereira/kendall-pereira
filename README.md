@@ -16,7 +16,7 @@ Hi there! I'm **Kendall Pereira**, a Computer Engineer from Costa Rica, passiona
 I enjoy solving real-world problems through clean, maintainable code and continuous learning.
 
 💼 Currently open to new opportunities in in the field of technology.
-🌐 I work primarily with **Python**, **PHP**, **JavaScript**, **SQL** y **More**.
+🌐 I work primarily with **Python**, **PHP**, **JavaScript**, **SQL** and **More**.
 
 ---
 
